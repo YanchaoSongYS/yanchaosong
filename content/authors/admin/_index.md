@@ -3,11 +3,11 @@
 title: Yanchao Song
 
 # Name pronunciation (optional)
-name_pronunciation: Yanchao Song456
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Yanchao123
-last_name: Song
+first_name:
+last_name:
 
 # Status emoji
 status:
@@ -33,16 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -141,13 +131,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
