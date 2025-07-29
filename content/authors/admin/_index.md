@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 宋燕超
+title: Yanchao Song
 
 # Name pronunciation (optional)
-name_pronunciation: Yanchao Song
+name_pronunciation: Yanchao Song456
 
 # Full name (for SEO)
-first_name: Yanchao
+first_name: Yanchao123
 last_name: Song
 
 # Status emoji
