@@ -101,7 +101,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-        - name: SmartPLS
+      - name: SmartPLS
         description: ''
         percent: 100
         icon: code-branch
