@@ -44,25 +44,25 @@ interests:
 
 education:
   - area: PhD Candidate Transportation Sciences
-    institution: Hasselt University
+    institution: Hasselt University, Belgium
     date_start: 2020-11-01
     date_end: 
     summary: |
       Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: PhD Candidate Work and Social Psychology
-    institution: Maastricht University
+    institution: Maastricht University, the Netherlands
     date_start: 2020-10-15
     date_end: 
     summary: |
       Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: Master of Engineering in Transportation Engineering
-    institution: Southeast University
+    institution: Southeast University, China
     date_start: 2017-09-01
     date_end: 2020-06-30
     summary: |
       Thesis on _Identification of high-risk traffic violation types and their spatial-temporal characteristics_.
   - area: Bachelor of Engineering in Traffic Engineering
-    institution: Chang’an University
+    institution: Chang’an University, China
     date_start: 2013-09-01
     date_end: 2017-06-30
 work:
