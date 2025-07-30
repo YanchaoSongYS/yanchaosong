@@ -109,17 +109,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Marathon
         description: ''
         percent: 100
-        icon: cat
+        icon: person-running
+      - name: Rock Music
+        description: ''
+        percent: 100
+        icon: music
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 
