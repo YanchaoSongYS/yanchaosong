@@ -100,9 +100,7 @@ skills:
       - name: STISIM Drive
         description: ''
         percent: 100
-        icon: wheel
-  - name: ' '
-    items:
+        icon: steering-wheel
       - name: SPSS
         description: ''
         percent: 100
@@ -110,7 +108,7 @@ skills:
       - name: SmartPLS
         description: ''
         percent: 100
-        icon: circle
+        icon: star
       - name: ArcGIS
         description: ''
         percent: 100
