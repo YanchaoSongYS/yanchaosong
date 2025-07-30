@@ -117,6 +117,7 @@ skills:
         description: ''
         percent: 100
         icon: spotify
+        icon_pack: fab
       - name: Photography
         description: ''
         percent: 100
