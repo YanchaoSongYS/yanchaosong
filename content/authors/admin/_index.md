@@ -100,11 +100,11 @@ skills:
       - name: SPSS
         description: ''
         percent: 100
-        icon: functions
+        icon: chart-bar
       - name: SmartPLS
         description: ''
         percent: 100
-        icon: branch
+        icon: code-branch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
