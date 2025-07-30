@@ -116,8 +116,7 @@ skills:
       - name: Rock Music
         description: ''
         percent: 100
-        icon: music
-        icon_pack: fas
+        icon: music-solid-full.svg
       - name: Photography
         description: ''
         percent: 100
