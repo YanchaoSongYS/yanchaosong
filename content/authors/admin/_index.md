@@ -93,13 +93,13 @@ skills:
         description: ''
         percent: 100
         icon: python
-      - name: Data Science
+      - name: R Language
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: R
       - name: SQL
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
