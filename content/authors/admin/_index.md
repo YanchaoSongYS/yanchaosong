@@ -97,14 +97,14 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: STISIM Drive
-        description: ''
-        percent: 100
-        icon: flag
       - name: SPSS
         description: ''
         percent: 100
         icon: chart-bar
+      - name: STISIM Drive
+        description: ''
+        percent: 100
+        icon: flag
       - name: SmartPLS
         description: ''
         percent: 100
@@ -113,18 +113,6 @@ skills:
         description: ''
         percent: 100
         icon: map
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
-      - name: ''
-        description: ''
-        percent: 100
-        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
