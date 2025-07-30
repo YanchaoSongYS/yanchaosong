@@ -133,8 +133,10 @@ skills:
 languages:
   - name: English
     percent: 100
+    icon: map
   - name: Chinese
     percent: 100
+    icon: map
 
 # Awards.
 #   Add/remove as many awards below as you like.
