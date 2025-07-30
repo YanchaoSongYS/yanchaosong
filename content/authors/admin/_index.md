@@ -116,7 +116,7 @@ skills:
       - name: Rock Music
         description: ''
         percent: 100
-        icon: guitar
+        icon: headphones
       - name: Photography
         description: ''
         percent: 100
