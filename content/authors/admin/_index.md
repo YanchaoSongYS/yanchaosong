@@ -113,10 +113,10 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Rock Music
+      - name: Podcast
         description: ''
         percent: 100
-        icon: headphones
+        icon: podcast
       - name: Photography
         description: ''
         percent: 100
