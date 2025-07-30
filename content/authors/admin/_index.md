@@ -46,15 +46,15 @@ education:
   - area: PhD Candidate of Transportation Sciences
     institution: Hasselt University, Belgium
     date_start: 2020-11-01
-    date_end: 
+    date_end: ''
     summary: |
-      Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
+      Thesis on _Analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: PhD Candidate of Work and Social Psychology
     institution: Maastricht University, the Netherlands
     date_start: 2020-10-15
-    date_end: 
+    date_end: ''
     summary: |
-      Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
+      Thesis on _Analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: Master of Engineering in Transportation Engineering
     institution: Southeast University, China
     date_start: 2017-09-01
@@ -66,28 +66,18 @@ education:
     date_start: 2013-09-01
     date_end: 2017-06-30
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Analyst (Intern)
+    company_name: Zhitong Technology (Jiangsu) Co.,Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2017-08-01
+    date_end: 2018-06-30
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)
+      - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
+      - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
+      - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -158,4 +148,4 @@ awards:
 
 ## About Me
 
-Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_. He is supervised by Dr. Veerle ROSS(https://www.uhasselt.be/en/who-is-who/veerle-ross), Prof. dr. [Kris BRIJS](https://www.uhasselt.be/en/who-is-who/detail/kris-brijs) and Prof. dr. [Gerhard WETS](https://www.uhasselt.be/en/who-is-who/detail/geert-wets), from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. dr. [Rob Ruiter](https://www.maastrichtuniversity.nl/rac-ruiter), from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
+Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_. He is supervised by Dr. [Veerle ROSS](https://www.uhasselt.be/en/who-is-who/veerle-ross), Prof. dr. [Kris BRIJS](https://www.uhasselt.be/en/who-is-who/detail/kris-brijs) and Prof. dr. [Gerhard WETS](https://www.uhasselt.be/en/who-is-who/detail/geert-wets), from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. dr. [Rob Ruiter](https://www.maastrichtuniversity.nl/rac-ruiter), from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
