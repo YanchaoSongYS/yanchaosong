@@ -31,10 +31,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yanchao.song@uhasselt.be'
     label: E-mail Me
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-7541-2822
 
 interests:
   - Artificial Intelligence
