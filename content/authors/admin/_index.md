@@ -100,7 +100,7 @@ skills:
       - name: SPSS
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: functions
       - name: SmartPLS
         description: ''
         percent: 100
