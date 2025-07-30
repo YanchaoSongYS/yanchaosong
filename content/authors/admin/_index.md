@@ -96,7 +96,7 @@ skills:
       - name: R Language
         description: ''
         percent: 100
-        icon: "byPrefixAndName.fas['registered']"
+        icon: code
       - name: SQL
         description: ''
         percent: 100
