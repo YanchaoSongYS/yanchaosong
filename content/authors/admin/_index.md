@@ -37,9 +37,10 @@ profiles:
     url: https://orcid.org/0000-0002-7541-2822
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Risky Driving Behavior
+  - Naturalistic Driving Study
+  - Driving Simulator Study
+  - Machine Learning
 
 education:
   - area: PhD Artificial Intelligence
