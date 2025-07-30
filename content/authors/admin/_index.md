@@ -112,7 +112,7 @@ skills:
       - name: Marathon
         description: ''
         percent: 100
-        icon: running
+        icon: person-simple-running
       - name: Rock Music
         description: ''
         percent: 100
