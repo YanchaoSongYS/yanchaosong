@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_. He is supervised by Dr. Veerle ROSS, Prof. Kris BRIJS and Prof. Gerhard WETS, from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. Rob Ruiter, from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
+Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_. He is supervised by [Dr. Veerle ROSS](https://www.uhasselt.be/en/who-is-who/veerle-ross), Prof. Kris BRIJS and Prof. Gerhard WETS, from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. Rob Ruiter, from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
