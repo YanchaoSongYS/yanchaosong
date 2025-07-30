@@ -131,16 +131,10 @@ skills:
         icon: camera
 
 languages:
-  - name: Languages
-    items:
-      - name: English
-        description: ''
-        percent: 100
-        icon: map
-      - name: Chinese
-        description: ''
-        percent: 100
-        icon: map
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
