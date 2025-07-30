@@ -100,7 +100,9 @@ skills:
       - name: STISIM Drive
         description: ''
         percent: 100
-        icon: car
+        icon: cars
+  - name: ''
+    items:
       - name: SPSS
         description: ''
         percent: 100
@@ -112,7 +114,7 @@ skills:
       - name: ArcGIS
         description: ''
         percent: 100
-        icon: earth
+        icon: map
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
