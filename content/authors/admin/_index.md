@@ -104,7 +104,7 @@ skills:
       - name: SmartPLS
         description: ''
         percent: 100
-        icon: fa-code-branch
+        icon: circle
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
