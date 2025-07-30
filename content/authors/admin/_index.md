@@ -116,7 +116,7 @@ skills:
       - name: Podcast
         description: ''
         percent: 100
-        icon: person-simple-listen
+        icon: Spotify
       - name: Photography
         description: ''
         percent: 100
