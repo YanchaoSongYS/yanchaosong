@@ -132,7 +132,7 @@ skills:
 
 languages:
   - name: English
-    percent: ''
+    percent: 80
   - name: Chinese
     percent: 100
 
