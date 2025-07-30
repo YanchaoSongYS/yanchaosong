@@ -72,11 +72,12 @@ work:
     company_logo: ''
     date_start: 2017-08-01
     date_end: 2018-06-30
-    summary: |2-
+    summary: |
       The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)
       - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
       - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
       - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
+    summary: |
       Predicting Future Driving Risk of Crash-Involved Drivers (_Team Leader_)
       - Led a team to design the whole machine learning framework of driving risk predict model.
       - Defined driving risk based on prior violation and crash records of drivers.
