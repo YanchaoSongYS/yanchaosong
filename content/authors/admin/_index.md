@@ -132,9 +132,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: ''
   - name: Chinese
-    percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
