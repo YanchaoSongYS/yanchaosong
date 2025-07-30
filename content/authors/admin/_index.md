@@ -96,11 +96,15 @@ skills:
       - name: R Language
         description: ''
         percent: 100
-        icon: code
-      - name: SQL
+        icon: code-bracket
+      - name: SPSS
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: chart-bar
+        - name: SmartPLS
+        description: ''
+        percent: 100
+        icon: code-branch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
