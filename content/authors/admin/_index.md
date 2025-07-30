@@ -116,8 +116,7 @@ skills:
       - name: Podcast
         description: ''
         percent: 100
-        icon: spotify
-        icon_pack: fab
+        icon: radio
       - name: Photography
         description: ''
         percent: 100
