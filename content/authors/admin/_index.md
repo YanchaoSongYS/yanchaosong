@@ -113,6 +113,18 @@ skills:
         description: ''
         percent: 100
         icon: map
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 100
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
