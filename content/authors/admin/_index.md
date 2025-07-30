@@ -100,7 +100,7 @@ skills:
       - name: STISIM Drive
         description: ''
         percent: 100
-        icon: steering-wheel
+        icon: flag
       - name: SPSS
         description: ''
         percent: 100
