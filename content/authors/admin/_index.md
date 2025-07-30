@@ -46,32 +46,25 @@ education:
   - area: PhD Candidate Transportation Sciences
     institution: Hasselt University
     date_start: 2020-11-01
-    date_end: present
+    date_end: 
     summary: |
       Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: PhD Candidate Work and Social Psychology
     institution: Maastricht University
     date_start: 2020-10-15
-    date_end: present
+    date_end: 
     summary: |
       Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
   - area: Master of Engineering in Transportation Engineering
     institution: Southeast University
     date_start: 2017-09-01
-    date_end: 2020-07-01
+    date_end: 2020-06-30
     summary: |
-      Thesis on
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Identification of high-risk traffic violation types and their spatial-temporal characteristics_.
+  - area: Bachelor of Engineering in Traffic Engineering
+    institution: Chang’an University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
