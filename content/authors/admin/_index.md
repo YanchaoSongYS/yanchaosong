@@ -97,6 +97,10 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
+      - name: STISIM Drive
+        description: ''
+        percent: 100
+        icon: car
       - name: SPSS
         description: ''
         percent: 100
@@ -105,6 +109,10 @@ skills:
         description: ''
         percent: 100
         icon: circle
+      - name: ArcGIS
+        description: ''
+        percent: 100
+        icon: earth
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
