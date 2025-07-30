@@ -43,13 +43,13 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Candidate Transportation Sciences
+  - area: PhD Candidate of Transportation Sciences
     institution: Hasselt University, Belgium
     date_start: 2020-11-01
     date_end: 
     summary: |
       Thesis on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_.
-  - area: PhD Candidate Work and Social Psychology
+  - area: PhD Candidate of Work and Social Psychology
     institution: Maastricht University, the Netherlands
     date_start: 2020-10-15
     date_end: 
