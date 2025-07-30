@@ -43,15 +43,12 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Candidate Transportation Sciences
+    institution: Hasselt University
+    date_start: 2020-11-01
+    date_end: present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -167,4 +164,4 @@ awards:
 
 ## About Me
 
-Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on analyzing cross-cultural differences in risky driving behavior among drivers from different countries. He is supervised by Dr. Veerle ROSS, Prof. Kris BRIJS and Prof. Gerhard WETS, from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. Rob Ruiter, from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
+Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on _analyzing cross-cultural differences in risky driving behavior among drivers from different countries_. He is supervised by Dr. Veerle ROSS, Prof. Kris BRIJS and Prof. Gerhard WETS, from the Transportation Research Institute (IMOB) at Hasselt University, and Prof. Rob Ruiter, from the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
