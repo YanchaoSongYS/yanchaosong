@@ -32,6 +32,4 @@ sections:
     content:
       title: Languages
       username: admin
-    design:
-      show_language_percentage: false
 ---
