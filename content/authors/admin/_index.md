@@ -166,4 +166,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yanchao Song is a joint PhD candidate at Hasselt University and Maastricht University. His doctoral research focuses on analyzing cross-cultural differences in risky driving behavior among drivers from different countries. He is supervised by Professor Veerle, from the Transportation Research Institute at Hasselt University, and Professor Rob, from the Department of Work and Social Psychology at Maastricht University.
