@@ -42,6 +42,24 @@ interests:
   - Driving Simulator Study
   - Machine Learning
 
+work:
+  - position: Data Analyst
+    company_name: Zhitong Technology (Jiangsu) Co.,Ltd, China
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-08-01
+    date_end: 2018-06-30
+    summary: |
+      - **The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)**
+        - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
+        - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
+        - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
+      - **Predicting Future Driving Risk of Crash-Involved Drivers (_Team Leader_)**
+        - Led a team to design the whole machine learning framework of driving risk predict model.
+        - Defined driving risk based on prior violation and crash records of drivers.
+        - Applied a feature selection procedure based on the random forest technique to extract significant risky driving factors.
+        - Developed a reliable and explicable machine learning model to predict the future driving risk of crash- involved drivers.
+
 education:
   - area: PhD Candidate of Transportation Sciences
     institution: Hasselt University, Belgium
@@ -65,24 +83,6 @@ education:
     institution: Chang’an University, China
     date_start: 2013-09-01
     date_end: 2017-06-30
-work:
-  - position: Data Analyst
-    company_name: Zhitong Technology (Jiangsu) Co.,Ltd, China
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-08-01
-    date_end: 2018-06-30
-    summary: |
-      - **The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)**
-        - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
-        - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
-        - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
-      - **Predicting Future Driving Risk of Crash-Involved Drivers (_Team Leader_)**
-        - Led a team to design the whole machine learning framework of driving risk predict model.
-        - Defined driving risk based on prior violation and crash records of drivers.
-        - Applied a feature selection procedure based on the random forest technique to extract significant risky driving factors.
-        - Developed a reliable and explicable machine learning model to predict the future driving risk of crash- involved drivers.
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -129,7 +129,6 @@ skills:
         description: ''
         percent: 100
         icon: camera
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
