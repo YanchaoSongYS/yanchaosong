@@ -30,7 +30,7 @@ publication_short: ""
 abstract: Driving simulator data can be sampled in function of distance (equally spaced) or time (with constant frequency). Consequently, the sampling data might have problems in the envisaged type of analysis (i.e. point location based analysis vs. zonal-based analysis). These issues are illustrated by means of five driving simulator datasets. The nearest sampled parameter value in the direct vicinity of the specific point is a very good proxy for the driving parameter value at the point of interest along the road. The analysis of driving parameters in zones requires a different approach. In summary, the interpolation technique is preferred over using raw sampled data to calculate mean parameter values. We introduce an equivalent time integral formula to compute the mean value of a driving parameter with respect to distance. Based on this paper, we demonstrate that it is very important to mention the data processing approach in driving simulator methodology.
 
 # Summary. An optional shortened abstract.
-summary: This study demonstrates that it is very important to mention the data processing approach in driving simulator methodology.
+summary: Driving simulator; Zonal parameter analysis; Point located parameter analysis; Time-based data sampling; Distance-based data sampling; Interpolation
 
 tags:
 - Driving Simulator Study
@@ -69,6 +69,16 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{% callout note %}}
+**Keywords**
+- Driving simulator
+- Zonal parameter analysis
+- Point located parameter analysis
+- Time-based data sampling
+- Distance-based data sampling
+- Interpolation
+{{% /callout %}}
 
 {{% callout note %}}
 **Highlights**

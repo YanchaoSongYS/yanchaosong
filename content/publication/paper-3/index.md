@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Traffic crashes could result in severe outcomes such as injuries and deaths. Thus, understanding factors associated with crash severity is of practical importance. Few studies have deeply examined how prior violation and crash experience of drivers and roadways are associated with crash severity. In this study, a set of risk indicators of road users and roadways were developed based on their prior violation and crash records (e.g., cumulative crash frequency of a roadway), in order to reflect certain aspect or degree of their driving risk. To explore the impacts of those indicators on crash severity and complex interactions among all contributing factors, a Bayesian network approach was developed, based on citywide crash data collected in Kunshan, China from 2016 to 2018. A variable selection procedure based on Information Value (IV) was developed to identify significant variables, and the Bayesian network was employed to explicitly explore statistical associations between crash severity and significant variables. In terms of balanced accuracy and AUCs, the proposed approach performed reasonably well. Bayesian modeling results indicated that the prior crash/violation experiences of road users and roadways were very important risk indicators. For example, migrant workers tend to have high injury risk due to their dangerous violation behaviors, such as retrograding, red-light running, and right-of-way violation. Furthermore, results showed that certain variable combinations had enhanced impacts on severity outcome than single variables. For example, when a migrant worker and a non-motorized vehicle are involved in a crash happening on a local road with high cumulative violation frequency in the previous year, the probability for drivers suffering serious injury or fatality is much higher than that caused by any single factor. The proposed methodology and modeling results provide insights for developing effective countermeasures to reduce crash severity and improve traffic system safety performance.
 
 # Summary. An optional shortened abstract.
-summary: In this study, a set of risk indicators of road users and roadways was developed based on their prior violation and crash records in order to reflect certain aspects or degree of their driving risk.
+summary: Bayesian network; Information value; Crash severity; Risk indicators
 
 tags:
 - Machine Learning
@@ -61,6 +61,14 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{% callout note %}}
+**Keywords**
+- Bayesian network
+- Information value
+- Crash severity
+- Risk indicators
+{{% /callout %}}
 
 {{% callout note %}}
 **Highlights**
