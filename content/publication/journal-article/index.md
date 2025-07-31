@@ -1,7 +1,7 @@
 ---
 title: "Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project"
 authors:
-- [Yanchao Song] *, Veerle Ross, Robert A.C. Ruiter, Tom Brijs, Muhammad Adnan, Muhammad Wisal Khattak, Yongjun Shen, Geert Wets, Kris Brijs
+- Yanchao Song *, Veerle Ross, Robert A.C. Ruiter, Tom Brijs, Muhammad Adnan, Muhammad Wisal Khattak, Yongjun Shen, Geert Wets, Kris Brijs
 date: "2025-03-18T00:00:00Z"
 doi: ""
 
