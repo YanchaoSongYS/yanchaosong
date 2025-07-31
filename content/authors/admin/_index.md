@@ -37,10 +37,12 @@ profiles:
     url: https://orcid.org/0000-0002-7541-2822
 
 interests:
+  - Traffic Safety
   - Risky Driving Behavior
   - Naturalistic Driving Study
   - Driving Simulator Study
   - Machine Learning
+  - Traffic Data Mining
 
 work:
   - position: Data Analyst
