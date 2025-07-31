@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: CICTP 2019
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
