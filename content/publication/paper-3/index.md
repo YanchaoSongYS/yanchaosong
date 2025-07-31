@@ -26,6 +26,7 @@ summary: Bayesian network; Information value; Crash severity; Risk indicators
 
 tags:
 - Machine Learning
+
 featured: true
 
 # links:
