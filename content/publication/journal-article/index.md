@@ -23,7 +23,7 @@ abstract: Driver-related factors, such as driving style and traffic offenses, ar
 summary: The study employed data from the i-DREAMS naturalistic driving experiment to develop an individual driving risk assessment framework.
 
 tags:
-- Accident Analysis and Prevention
+- Naturalistic Driving Study
 featured: true
 
 # links:
