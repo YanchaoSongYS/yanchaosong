@@ -44,28 +44,6 @@ interests:
   - Machine Learning
   - Traffic Data Mining
 
-work:
-  - position: Data Analyst
-    company_name: Zhitong Technology (Jiangsu) Co.,Ltd, China
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-08-01
-    date_end: 2018-06-30
-    summary: |
-      - **The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)**
-        - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
-        - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
-        - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
-      - **Predicting Future Driving Risk of Crash-Involved Drivers (_Team Leader_)**
-        - Led a team to design the whole machine learning framework of driving risk predict model.
-        - Defined driving risk based on prior violation and crash records of drivers.
-        - Applied a feature selection procedure based on the random forest technique to extract significant risky driving factors.
-        - Developed a reliable and explicable machine learning model to predict the future driving risk of crash- involved drivers.
-
-
-
-
-
 education:
   - area: PhD Candidate of Transportation Sciences
     institution: Hasselt University, Belgium
@@ -89,6 +67,46 @@ education:
     institution: Chang’an University, China
     date_start: 2013-09-01
     date_end: 2017-06-30
+
+work:
+  - position: Research Assistant
+    company_name: Intelligent Transportation System Research Center, Southeast University, China
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-09-01
+    date_end: 2020-06-30
+    summary: |
+      - **Accident Cause Modeling based on Machine Learning Techniques (_Team Leader_)**
+        - This research project was supported by Open Project of Key Laboratory of Ministry of Public Security for Road Traffic Safety (No. 2018ZDSYSKFKT12).
+        - Led a team to design a systematic machine learning framework of accident cause model.
+        - Proposed a combined method of a locally linear embedding method and an improved K-means algorithm to identify the relationship between driver behaviors and crashes involvement.
+        - Developed some risk indicators of drivers and roadways based on prior violation and crash records, which could reflect certain aspects and degree of crash risk.
+        - Proposed a hybrid approach to integrate a variable selection procedure based on information value and a Bayesian network to quantitatively and graphically analyze crash severity patterns.
+        - Applied a time series forecasting model based on neural networks to investigate the spatio-temporal evolution of dangerous driver behaviors.
+        - Conducted a project report and defense on behalf of the team.
+      - **Setting Speed Limits of Urban Road Network in Ningbo Hangzhou Bay New Area (_Team Leader_)**
+        - Led a team to design a safe systems approach to setting the speed limit.
+        - Led a team to investigate potential safety hazards of road network in study area.
+        - Conducted accident density analyses based on kernel density method and line density method in ArcGIS.
+        - Determined adjustment factors for determining the proposed posted speed limit through regression modeling, considering the major physical features of the road and accident data.
+        - Proposed a set of recommended speed limits of road network in Ningbo Hangzhou Bay New Area.
+        - Conducted a project report and defense on behalf of the team.
+  - position: Data Analyst
+    company_name: Zhitong Technology (Jiangsu) Co.,Ltd, China
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-08-01
+    date_end: 2018-06-30
+    summary: |
+      - **The Research of Multidimensional Association Rule in Traffic Accidents (_Team Member_)**
+        - Collected the traffic accident data from Kunshan Traffic Police Department, on which build the multidimensional association rule model of traffic accidents.
+        - Developed the analysis system of association factors in traffic accidents, which could mine the conditional factors of traffic accidents.
+        - Present corresponding preventive measures to reduce the traffic accidents based on research findings.
+      - **Predicting Future Driving Risk of Crash-Involved Drivers (_Team Leader_)**
+        - Led a team to design the whole machine learning framework of driving risk predict model.
+        - Defined driving risk based on prior violation and crash records of drivers.
+        - Applied a feature selection procedure based on the random forest technique to extract significant risky driving factors.
+        - Developed a reliable and explicable machine learning model to predict the future driving risk of crash- involved drivers.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
