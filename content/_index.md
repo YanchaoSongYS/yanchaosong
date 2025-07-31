@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: conferences
     content:
       title: Conferences
       filters:
@@ -72,7 +72,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     id: news
     content:
