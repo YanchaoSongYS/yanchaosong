@@ -1,20 +1,22 @@
 ---
-title: "Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project"
+title: "Processing driving simulator data before statistical analysis by means of interpolation and an integral formula"
 authors:
-- admin
+- Caroline Ariën
+- Giovanni Vanroelen
 - Veerle Ross
-- Robert A.C. Ruiter
+- admin
 - Tom Brijs
-- Muhammad Adnan
-- Muhammad Wisal Khattak
-- Yongjun Shen
 - Geert Wets
+- Ellen M.M. Jongen
+- Joris Cornu
+- Kristof Mollu
+- Stijn Daniels
 - Kris Brijs
-date: "2025-03-18T00:00:00Z"
+date: "2023-02-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-18T00:00:00Z"
+publishDate: "2023-02-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,22 +24,22 @@ publishDate: "2025-03-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accident Analysis and Prevention, 215*, 107993"
+publication: "*Transportmetrica A: Transport Science, 20*, (3)"
 publication_short: ""
 
-abstract: Driver-related factors, such as driving style and traffic offenses, are key contributors to road crashes, with driving risk varying substantially among individuals. Accurate assessment of individual driving risk and identification of high-risk driver characteristics are essential to reducing road crashes. Despite numerous studies on driving risk assessment, most rely solely on the frequency of single-threshold events, making them insufficiently comprehensive. Moreover, these studies neglect the repetitive nature of driving scenarios and differences in exposure, leading to imprecise assessments when using distance traveled as a measure of exposure. To address these shortcomings, we collected 18 weeks of naturalistic driving data from 100 participants (50 from the UK, 50 from Belgium) and developed a framework for assessing individual driving risk, consisting of three parts (1) identification of risky driving scenarios, (2) assessment of individual driving risks, and (3) analysis of group risk differences to identify high-risk driver characteristics. Risky driving scenarios were characterized by critical events with high risk propensity and high heterogeneity among individual driving risks. Driving scenario indicators were developed that measure risk propensity and heterogeneity, enabling risk assessments based on the probability of critical events occurring in such scenarios. Individual driving risk was measured by the weighted probability of multi-threshold events (WPMTE) in risky driving scenarios and adjusted for differences in driving exposure. WPMTE provides a comprehensive and precise assessment of individual driving risks, aiding in the identification of high-risk drivers. Finally, statistical tests revealed significantly higher risks for young drivers (19–30) compared to middle-aged (46–60) and elderly drivers (61–79), as well as higher risks for Belgian drivers compared to UK drivers. These findings inform the development of tailored safety education and proactive interventions, promoting safer driving behaviors and reducing crash rates.
+abstract: Driving simulator data can be sampled in function of distance (equally spaced) or time (with constant frequency). Consequently, the sampling data might have problems in the envisaged type of analysis (i.e. point location based analysis vs. zonal-based analysis). These issues are illustrated by means of five driving simulator datasets. The nearest sampled parameter value in the direct vicinity of the specific point is a very good proxy for the driving parameter value at the point of interest along the road. The analysis of driving parameters in zones requires a different approach. In summary, the interpolation technique is preferred over using raw sampled data to calculate mean parameter values. We introduce an equivalent time integral formula to compute the mean value of a driving parameter with respect to distance. Based on this paper, we demonstrate that it is very important to mention the data processing approach in driving simulator methodology.
 
 # Summary. An optional shortened abstract.
 summary: This study employed data from the i-DREAMS naturalistic driving experiment to develop an individual driving risk assessment framework.
 
 tags:
-- Naturalistic Driving Study
+- Driving Simulator Study
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.aap.2025.107993
+url_pdf: https://doi.org/10.1080/23249935.2023.2179347
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,9 +72,9 @@ slides: ""
 
 {{% callout note %}}
 **Highlights**
-- Drivers' risk tendencies can be accurately identified within risky driving scenarios.
-- Weighted probability of multi-threshold events (WPMTE) is a promising risk indicator.
-- Probability-based driving risk is overestimated with an increase in driving exposure.
-- The driving risks vary among driver groups across different ages and countries.
-- WPMTE-based risk assessment can distinguish drivers with diverse styles and offenses.
+- Driving simulator data can be sampled in function of distance or time.
+- Nearest sampled parameter value is a good proxy for the value at a point.
+- Speed variations in zones result in mean speed underestimations based on raw data.
+- Interpolated data are more suitable for the analysis of driving parameters in zones.
+- Describing data processing approach is important in driving simulator research.
 {{% /callout %}}
