@@ -55,6 +55,6 @@ projects: []
 ---
 
 {{% callout note %}}
-**Conference Theme**
-- The RTR Conference is a unique entry point into the achievements of EU-funded projects in road transport. R&I results, findings, new links, impacts and deployment were highlighted during the 3 days of the RTR conference.
+**Conference topic**
+The RTR Conference is a unique entry point into the achievements of EU-funded projects in road transport. R&I results, findings, new links, impacts and deployment were highlighted during the 3 days of the RTR conference.
 {{% /callout %}}

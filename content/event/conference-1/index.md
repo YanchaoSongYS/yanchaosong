@@ -56,5 +56,5 @@ projects: []
 
 {{% callout note %}}
 **Poster presentation title**
-- On the Relationship between Traffic Violation Behavior and Crash Involvement Using Locally Linear Embedding and Improved K-Means Algorithm
+On the Relationship between Traffic Violation Behavior and Crash Involvement Using Locally Linear Embedding and Improved K-Means Algorithm
 {{% /callout %}}

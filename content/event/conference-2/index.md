@@ -56,5 +56,5 @@ projects: []
 
 {{% callout note %}}
 **Oral presentation title**
-- Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project
+Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project
 {{% /callout %}}
