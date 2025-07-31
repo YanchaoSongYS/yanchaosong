@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project"
 authors:
-- admin
-- Veerle Ross, Robert A.C. Ruiter, Tom Brijs, Muhammad Adnan, Muhammad Wisal Khattak, Yongjun Shen, Geert Wets, Kris Brijs
+- admin, Veerle Ross, Robert A.C. Ruiter, Tom Brijs, Muhammad Adnan, Muhammad Wisal Khattak, Yongjun Shen, Geert Wets, Kris Brijs
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -27,7 +26,7 @@ abstract: Driver-related factors, such as driving style and traffic offenses, ar
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Accident Analysis and Prevention
 featured: true
 
 # links:
@@ -45,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
