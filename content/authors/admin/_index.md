@@ -37,7 +37,7 @@ profiles:
     url: https://orcid.org/0000-0002-7541-2822
 
 interests:
-  - Traffic Safety
+  - Road Traffic Safety
   - Risky Driving Behavior
   - Naturalistic Driving Study
   - Driving Simulator Study
@@ -61,6 +61,10 @@ work:
         - Defined driving risk based on prior violation and crash records of drivers.
         - Applied a feature selection procedure based on the random forest technique to extract significant risky driving factors.
         - Developed a reliable and explicable machine learning model to predict the future driving risk of crash- involved drivers.
+
+
+
+
 
 education:
   - area: PhD Candidate of Transportation Sciences
