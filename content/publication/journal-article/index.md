@@ -1,7 +1,7 @@
 ---
 title: "Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project"
 authors:
-- admin *
+- admin
 - Veerle Ross
 - Robert A.C. Ruiter
 - Tom Brijs
@@ -38,7 +38,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://doi.org/10.1016/j.aap.2025.107993
-url_code: ''
+url_data_source: https://doi.org/10.1016/j.aap.2025.107993
 url_dataset: ''
 url_poster: ''
 url_project: ''
