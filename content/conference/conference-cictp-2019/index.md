@@ -1,12 +1,12 @@
 ---
 title: CICTP Conference 2019
 
-event: I gave a poster presentation at the 19th COTA International Conference of Transportation Professionals
+event: Gave a poster presentation at the 19th COTA International Conference of Transportation Professionals
 event_url: ''
 
 location: Nanjing, China
 
-summary: Gave a poster presentation at the 19th COTA International Conference of Transportation Professionals.
+summary: I gave a poster presentation at the 19th COTA International Conference of Transportation Professionals.
 
 abstract: Driver behavior is an important factor contributing to traffic crash occurrence. In previous literature, some specific traffic violation behaviors have been found to be associated with crash risk, such as speeding. However, a comprehensive study needs to be conducted to explore relationships between various violation behaviors and drivers’ crash risk. In this paper, nearly 300 violation types were studied. Crashes were classified into different types based on two criterions, severity and scenario. With a locally linear embedding (LLE) method, high-dimensional non-linear relationships among violation and crash types were identified and properly mapped to a lower-dimensional space. Then, an improved K-means algorithm was applied to cluster violation and crash types into multiple groups, to overcome the weakness of traditional K-means algorithm in terms of large variance. The results show some interesting and useful findings. In general, this paper provides valuable information for traffic enforcement and education to improve traffic safety.
 
