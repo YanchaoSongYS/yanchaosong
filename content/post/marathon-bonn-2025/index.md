@@ -6,6 +6,6 @@ authors:
   - admin
 tags:
   - Marathon
-featured: false
+featured: true
 
 ---
