@@ -1,5 +1,5 @@
 ---
-title: "Individual risk assessment framework"
+title: "Individual Risk Assessment Framework"
 authors:
 - admin
 

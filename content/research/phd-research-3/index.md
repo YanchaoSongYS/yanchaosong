@@ -1,5 +1,5 @@
 ---
-title: "Intervention effectiveness evaluation"
+title: "Attitudes-Interventions-Risk"
 authors:
 - admin
 
@@ -11,7 +11,7 @@ publishDate: "2025-07-07T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["Completed"]
 
-abstract: The i-DREAMS project set up a platform and system that provides real-time and post-trip interventions (including gamification elements) to keep drivers within safe margins. While the effectiveness of interventions has been widely studied, limited research has explored their interaction. Specifically, it remains unclear how engagement with post-trip interventions influences adherence to real-time interventions and how such adherence impacts individual driving risk. Moreover, the factors contributing to variation in intervention engagement and adherence across drivers remain underexplored. In addition, most existing evaluations of intervention effectiveness have been conducted within a single-country context, with a limited focus on cross-national differences, which are crucial for understanding variation in intervention performance across different national contexts. This study aims to assess the impact of real-time and post-trip interventions on drivers' individual driving risk across European countries, examine cross-national differences, and explore their underlying causes. The results show that the i-DREAMS interventions significantly reduced kinematic driving risk and traffic offense risk, although cross-national differences were observed between Belgium and the UK. The real-time interventions significantly reduced kinematic driving risk among UK drivers, whereas gamified post-trip interventions were more effective for Belgian drivers. Additionally, the real-time interventions effectively reduced traffic offense risk in both countries. A strong negative association was found between adherence to real-time interventions and individual driving risk, and engagement with post-trip interventions was positively associated with adherence scores in kinematic driving. Gamification elements enhanced engagement with post-trip interventions. The insights gained from this study help enhance the customization of i-DREAMS interventions and application strategies.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: Safe driving attitudes; Post-trip intervention engagement; Real-time intervention adherence; Individual driving risk; Propensity score matching; Naturalistic driving data

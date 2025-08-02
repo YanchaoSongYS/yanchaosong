@@ -1,5 +1,5 @@
 ---
-title: "Intervention effectiveness evaluation"
+title: "Intervention Effectiveness Evaluation"
 authors:
 - admin
 
