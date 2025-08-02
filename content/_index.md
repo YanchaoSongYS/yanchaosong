@@ -51,6 +51,7 @@ sections:
           - research
       # Page order: descending (desc) or ascending (asc) date.
       order: asc
+      count: 6
     design:
       view: article-grid
       columns: 2
