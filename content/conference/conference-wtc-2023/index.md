@@ -1,7 +1,7 @@
 ---
 title: WTC Conference 2023
 
-event: Gave an oral presentation at the World Transport Convention 2023
+event: I gave an oral presentation at the World Transport Convention 2023
 event_url: ''
 
 location: Wuhan, China

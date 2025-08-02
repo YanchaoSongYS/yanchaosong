@@ -1,7 +1,7 @@
 ---
 title: CICTP Conference 2019
 
-event: Gave a poster presentation at the 19th COTA International Conference of Transportation Professionals
+event: I gave a poster presentation at the 19th COTA International Conference of Transportation Professionals
 event_url: ''
 
 location: Nanjing, China

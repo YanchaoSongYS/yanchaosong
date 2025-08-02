@@ -1,7 +1,7 @@
 ---
 title: RTR Conference 2025
 
-event: Attended the RTR (Results from Road Transport Research) Conference 2025
+event: I attended the RTR (Results from Road Transport Research) Conference 2025
 event_url: 'https://rtrconference.eu/'
 
 location: Brussels, Belgium
