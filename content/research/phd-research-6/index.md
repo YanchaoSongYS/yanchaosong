@@ -17,9 +17,7 @@ abstract: The i-DREAMS project set up a platform and system that provides real-t
 summary: Real-time interventions; Post-trip interventions; Gamification; Individual driving risk; Cross-national analysis; Naturalistic driving data
 
 tags:
-- Cross-national analysis
-- Real-time interventions
-- Post-trip interventions
+- Machine Learning
 
 featured: true
 
