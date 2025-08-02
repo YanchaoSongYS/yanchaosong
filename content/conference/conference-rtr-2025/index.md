@@ -6,7 +6,7 @@ event_url: 'https://rtrconference.eu/'
 
 location: Brussels, Belgium
 
-summary: I attended the RTR (Results from Road Transport Research) Conference 2025
+summary: I attended the RTR (Results from Road Transport Research) Conference 2025.
 
 abstract: The RTR (Results from Road Transport Research) Conference attracted its largest audience to date, with more than 500 participants on-site and 400 participants joining online, emphasising the importance of pre-competitive collaborative research in road transport at the European level. This high level of participation is a testimony of the RTR conference’s pivotal role in supporting the European R&I eco-system in all the fields of road transport, infrastructure, road safety, decarbonisation, digitalisation, urban mobility, as well freight and logistics.
 
