@@ -49,6 +49,8 @@ sections:
       filters:
         folders:
           - research
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
       view: article-grid
       columns: 2
