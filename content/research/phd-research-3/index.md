@@ -11,14 +11,13 @@ publishDate: "2025-07-07T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["Completed"]
 
-abstract: 
+abstract: Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups.
 
 # Summary. An optional shortened abstract.
 summary: Safe driving attitudes; Post-trip intervention engagement; Real-time intervention adherence; Individual driving risk; Propensity score matching; Naturalistic driving data
 
 tags:
 - Mathematical statistics
-- Propensity score matching
 - Naturalistic driving data
 
 featured: true
