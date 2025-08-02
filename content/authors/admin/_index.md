@@ -44,11 +44,6 @@ interests:
   - Machine Learning
   - Traffic Data Mining
 
-skills:
-  - Road Traffic Safety
-  - Risky Driving Behavior
-  - Naturalistic Driving Study
-
 education:
   - area: PhD Candidate of Transportation Sciences
     institution: Hasselt University, Belgium
