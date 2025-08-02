@@ -39,6 +39,7 @@ profiles:
 interests:
   - Road Traffic Safety
   - Risky Driving Behavior
+  - Cross-National Analysis
   - Naturalistic Driving Study
   - Driving Simulator Study
   - Machine Learning
