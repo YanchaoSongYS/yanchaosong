@@ -1,6 +1,6 @@
 ---
 title: 📄 Paper published in AAP
-summary: Our paper was published in the journal Accident Analysis and Prevention.
+summary: Our paper was published in the Accident Analysis and Prevention.
 date: 2025-03-18
 authors:
   - admin
