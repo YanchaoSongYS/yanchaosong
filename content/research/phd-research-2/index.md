@@ -1,31 +1,33 @@
 ---
-title: "Individual risk assessment framework"
+title: "Intervention effectiveness evaluation"
 authors:
 - admin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-18T00:00:00Z"
+publishDate: "2025-06-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["Completed"]
 
-abstract: Driver-related factors, such as driving style and traffic offenses, are key contributors to road crashes, with driving risk varying substantially among individuals. Accurate assessment of individual driving risk and identification of high-risk driver characteristics are essential to reducing road crashes. Despite numerous studies on driving risk assessment, most rely solely on the frequency of single-threshold events, making them insufficiently comprehensive. Moreover, these studies neglect the repetitive nature of driving scenarios and differences in exposure, leading to imprecise assessments when using distance traveled as a measure of exposure. To address these shortcomings, we collected 18 weeks of naturalistic driving data from 100 participants (50 from the UK, 50 from Belgium) and developed a framework for assessing individual driving risk, consisting of three parts (1) identification of risky driving scenarios, (2) assessment of individual driving risks, and (3) analysis of group risk differences to identify high-risk driver characteristics. Risky driving scenarios were characterized by critical events with high risk propensity and high heterogeneity among individual driving risks. Driving scenario indicators were developed that measure risk propensity and heterogeneity, enabling risk assessments based on the probability of critical events occurring in such scenarios. Individual driving risk was measured by the weighted probability of multi-threshold events (WPMTE) in risky driving scenarios and adjusted for differences in driving exposure. WPMTE provides a comprehensive and precise assessment of individual driving risks, aiding in the identification of high-risk drivers. Finally, statistical tests revealed significantly higher risks for young drivers (19–30) compared to middle-aged (46–60) and elderly drivers (61–79), as well as higher risks for Belgian drivers compared to UK drivers. These findings inform the development of tailored safety education and proactive interventions, promoting safer driving behaviors and reducing crash rates.
+abstract: The i-DREAMS project set up a platform and system that provides real-time and post-trip interventions (including gamification elements) to keep drivers within safe margins. While the effectiveness of interventions has been widely studied, limited research has explored their interaction. Specifically, it remains unclear how engagement with post-trip interventions influences adherence to real-time interventions and how such adherence impacts individual driving risk. Moreover, the factors contributing to variation in intervention engagement and adherence across drivers remain underexplored. In addition, most existing evaluations of intervention effectiveness have been conducted within a single-country context, with a limited focus on cross-national differences, which are crucial for understanding variation in intervention performance across different national contexts. This study aims to assess the impact of real-time and post-trip interventions on drivers' individual driving risk across European countries, examine cross-national differences, and explore their underlying causes. The results show that the i-DREAMS interventions significantly reduced kinematic driving risk and traffic offense risk, although cross-national differences were observed between Belgium and the UK. The real-time interventions significantly reduced kinematic driving risk among UK drivers, whereas gamified post-trip interventions were more effective for Belgian drivers. Additionally, the real-time interventions effectively reduced traffic offense risk in both countries. A strong negative association was found between adherence to real-time interventions and individual driving risk, and engagement with post-trip interventions was positively associated with adherence scores in kinematic driving. Gamification elements enhanced engagement with post-trip interventions. The insights gained from this study help enhance the customization of i-DREAMS interventions and application strategies.
+
 
 # Summary. An optional shortened abstract.
-summary: Risky driving assessment; Risky driving scenarios; Risk indicators; Risky driving exposure; Naturalistic driving data; Driver characteristics
+summary: Real-time interventions; Post-trip interventions; Gamification; Individual driving risk; Cross-national analysis; Naturalistic driving data
 
 tags:
-- Naturalistic Driving Study
-- Risky Driving Behavior
+- Cross-national analysis
+- Real-time interventions
+- Post-trip interventions
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.aap.2025.107993
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -51,19 +53,19 @@ slides: ""
 
 {{% callout note %}}
 **Keywords**
-- Risky driving assessment
-- Risky driving scenarios
-- Risk indicators
-- Risky driving exposure
+- Real-time interventions
+- Post-trip interventions
+- Gamification
+- Individual driving risk
+- Cross-national analysis
 - Naturalistic driving data
-- Driver characteristics
 {{% /callout %}}
 
 {{% callout note %}}
 **Highlights**
-- Drivers' risk tendencies can be accurately identified within risky driving scenarios.
-- Weighted probability of multi-threshold events (WPMTE) is a promising risk indicator.
-- Probability-based driving risk is overestimated with an increase in driving exposure.
-- The driving risks vary among driver groups across different ages and countries.
-- WPMTE-based risk assessment can distinguish drivers with diverse styles and offenses.
+- The i-DREAMS interventions significantly reduce kinematic driving risk and traffic offense risk.
+- The effectiveness of real-time and post-trip interventions exhibits cross-national differences.
+- A strong negative association exists between adherence to real-time interventions and individual driving risk.
+- A strong positive association exists between engagement with post-trip interventions and adherence scores in kinematic driving.
+- Gamification elements promote adherence to real-time interventions, significantly reducing kinematic driving risk.
 {{% /callout %}}
