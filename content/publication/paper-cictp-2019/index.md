@@ -13,7 +13,7 @@ date: '2019-07-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-02-12T00:00:00Z'
+publishDate: '2019-07-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
