@@ -69,7 +69,7 @@ sections:
       title: Conferences
       filters:
         folders:
-          - event
+          - conference
     design:
       view: article-grid
       columns: 3
