@@ -154,12 +154,6 @@ skills:
         percent: 100
         icon: camera
 
-languages:
-  - name: English
-    percent: 80
-  - name: Chinese
-    percent: 100
-
 ---
 
 ## About Me
