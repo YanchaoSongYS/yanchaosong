@@ -6,6 +6,8 @@ cms_exclude: true
 # View
 view: article-grid
 
+order: asc
+
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
