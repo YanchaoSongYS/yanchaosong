@@ -1,5 +1,5 @@
 ---
-title: 📄 Paper published in AAP
+title: 📖 Paper published in AAP
 summary: Our paper was published in the Accident Analysis and Prevention.
 date: 2025-03-18
 authors:

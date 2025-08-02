@@ -1,5 +1,5 @@
 ---
-title: 📄 Paper published in JSR
+title: 📖 Paper published in JSR
 summary: Our paper was published in the Journal of Safety Research.
 date: 2020-12-14
 authors:

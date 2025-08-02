@@ -1,5 +1,5 @@
 ---
-title: 📄 Paper published in Entropy
+title: 📖 Paper published in Entropy
 summary: Our paper was published in the Entropy.
 date: 2019-11-06
 authors:

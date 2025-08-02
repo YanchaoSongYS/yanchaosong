@@ -1,5 +1,5 @@
 ---
-title: 📄 Paper published in TMA-TS
+title: 📖 Paper published in TMA-TS
 summary: Our paper was published in the Transportmetrica A Transport Science.
 date: 2023-02-23
 authors:
