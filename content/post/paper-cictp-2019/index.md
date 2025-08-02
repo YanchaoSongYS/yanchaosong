@@ -1,7 +1,7 @@
 ---
 title: 📄 Paper published in the proceedings of CICTP 2019
 summary: Our paper was published in the Proceedings of the 19th COTA International Conference of Transportation Professionals.
-date: 2019-07-02
+date: 2019-08-02
 authors:
   - admin
 tags:
