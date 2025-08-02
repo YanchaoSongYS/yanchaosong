@@ -17,9 +17,9 @@ abstract:
 summary: Safe driving attitudes; Post-trip intervention engagement; Real-time intervention adherence; Individual driving risk; Propensity score matching; Naturalistic driving data
 
 tags:
-- Cross-national analysis
-- Real-time interventions
-- Post-trip interventions
+- Mathematical statistics
+- Propensity score matching
+- Naturalistic driving data
 
 featured: true
 
