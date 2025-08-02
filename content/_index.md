@@ -43,6 +43,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: research
+    content:
+      title: PhD Research
+      filters:
+        folders:
+          - research
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     id: papers
     content:
       title: Featured Publications
