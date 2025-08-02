@@ -1,5 +1,5 @@
 ---
-title: CICTP 2019
+title: CICTP Conference 2019
 
 event: Gave a poster presentation at the 19th COTA International Conference of Transportation Professionals
 event_url: ''

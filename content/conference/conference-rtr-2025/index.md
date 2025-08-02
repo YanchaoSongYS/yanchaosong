@@ -1,5 +1,5 @@
 ---
-title: RTR 2025
+title: RTR Conference 2025
 
 event: Attended the RTR (Results from Road Transport Research) Conference 2025
 event_url: 'https://rtrconference.eu/'
