@@ -12,6 +12,20 @@ url_pdf: https://doi.org/10.1016/j.aap.2025.107993
 ---
 
 {{% callout note %}}
-**Title**
-- Development of a framework for risky driving scenario identification, individual risk assessment, and group risk differences estimation using naturalistic driving data from the i-DREAMS project
+**Keywords**
+- Risky driving assessment
+- Risky driving scenarios
+- Risk indicators
+- Risky driving exposure
+- Naturalistic driving data
+- Driver characteristics
+{{% /callout %}}
+
+{{% callout note %}}
+**Highlights**
+- Drivers' risk tendencies can be accurately identified within risky driving scenarios.
+- Weighted probability of multi-threshold events (WPMTE) is a promising risk indicator.
+- Probability-based driving risk is overestimated with an increase in driving exposure.
+- The driving risks vary among driver groups across different ages and countries.
+- WPMTE-based risk assessment can distinguish drivers with diverse styles and offenses.
 {{% /callout %}}
