@@ -17,7 +17,7 @@ abstract: Exploring relationships among safe driving attitudes, post-trip interv
 summary: Safe driving attitudes; Post-trip intervention engagement; Real-time intervention adherence; Individual driving risk; Propensity score matching; Naturalistic driving data
 
 tags:
-- Mathematical statistics
+- Statistical analysis
 - Naturalistic driving data
 
 featured: true
