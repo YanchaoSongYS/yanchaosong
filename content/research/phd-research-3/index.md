@@ -9,7 +9,7 @@ publishDate: "2025-07-07T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Completed"]
+publication_types: ["Completed Research"]
 
 abstract: Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups.
 

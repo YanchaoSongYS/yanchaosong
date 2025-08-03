@@ -9,7 +9,7 @@ publishDate: "2025-07-07T15:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Ongoing"]
+publication_types: ["Ongoing Research"]
 
 abstract: Real-time risk event prediction based on machine learning methods using naturalistic driving data and self-reported questionnaire data.
 

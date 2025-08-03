@@ -9,7 +9,7 @@ publishDate: "2025-07-07T09:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Completed"]
+publication_types: ["Completed Research"]
 
 abstract: Integration of real-time intervention acceptance and post-trip intervention engagement to explain the working mechanisms of the i-DREAMS intervention technology using PLS-SEM.
 
