@@ -62,59 +62,19 @@ Completed
 - Naturalistic driving data
 
 ## Key Results
-
 **Relationship chains**
-<div style="text-align: center; margin-top: 0px; margin-bottom: 40px; position: relative; display: inline-block;">
-
-  <img
-    src="figure 1.png"
-    style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;"
-    oncontextmenu="return false;"
-    draggable="false"
-  >
-
-  <!-- 叠加水印层 -->
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 40px;
-    font-weight: bold;
-    user-select: none;
-    mix-blend-mode: screen;
-    ">
-    Copyright © Yanchao Song
-  </div>
-
-</div>
-
-
-
-
-
-
-**Relationship chains**
-<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
-  <img src="figure 1.png" style="width:100%; max-width:1000px;">
+<p align="center" style="margin-top: 0px; margin-bottom: 20px;">
+  <img src="figure_1.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 **Spearman's rank correlations among driver indicators**
-<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
-  <img src="figure 2.png" style="width:100%; max-width:1000px;">
-</p>
+
 
 **Half violin plots of driver indicators stratified by SDA-PS and PTI-ED**
-<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
-  <img src="figure 3.png" style="width:100%; max-width:1000px;">
-</p>
+
 
 **Correlations among driver indicators for entire matched samples and different groups**
-<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
-  <img src="figure 4.png" style="width:100%; max-width:1000px;">
-</p>
+
 
 ## Contact Me
-If you are interested in this research and would like to talk more about it, just let me know!
+✉️(mailto:yanchao.song@uhasselt.be) If you are interested in this research and would like to talk more about it, just let me know!
