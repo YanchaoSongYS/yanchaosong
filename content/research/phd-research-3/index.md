@@ -25,7 +25,7 @@ featured: true
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # links:
 # - name: ""
@@ -68,7 +68,7 @@ slides: ""
 Contact me
 
 <p align="center">
-  <img src="figure 1.png" style="width:100%; max-width:1000px;">
+  <img src="figure 1.png" style="width:90%; max-width:1000px;">
 </p>
 
 
