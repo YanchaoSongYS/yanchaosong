@@ -83,4 +83,4 @@ slides: ""
 </p>
 
 ## Contact Me
-✉️ If you are interested in this research and would like to talk more about it, just let me know!
+📧 If you are interested in this research and would like to talk more about it, just let me know!
