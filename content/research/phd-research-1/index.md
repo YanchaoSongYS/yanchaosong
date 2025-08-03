@@ -49,15 +49,6 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-**Keywords**
-- Risky driving assessment
-- Risky driving scenarios
-- Risk indicators
-- Risky driving exposure
-- Naturalistic driving data
-- Driver characteristics
-{{% /callout %}}
 
 {{% callout note %}}
 **Highlights**
@@ -67,3 +58,20 @@ slides: ""
 - The driving risks vary among driver groups across different ages and countries.
 - WPMTE-based risk assessment can distinguish drivers with diverse styles and offenses.
 {{% /callout %}}
+
+
+
+
+## Research Topic
+📚 Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups
+
+## Research Progress
+✅ Completed
+
+## Keywords
+📌 Risky driving assessment<br>
+📌 Risky driving scenarios<br>
+📌 Risk indicators<br>
+📌 Risky driving exposure<br>
+📌 Naturalistic driving data<br>
+📌 Driver characteristics<br>
