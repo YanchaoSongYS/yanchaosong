@@ -35,9 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My doctoral project established a comprehensive research framework for investigating risky driving behavior.
+        
+        I first developed an innovative method for assessing individual driving risk based on naturalistic driving data.
+        
+        Building on this foundation, I conducted an in-depth cross-national analysis of the effectiveness of both real-time and post-trip interventions, identifying key differences and their underlying causes across countries.
+        
+        I further integrated real-time intervention adherence and post-trip intervention engagement to model the working mechanisms of the i-DREAMS intervention technology, while also examining how demographic and psychological characteristics influence intervention engagement and adherence.
+        
+        Ultimately, my research aims to improve road safety by employing advanced machine learning techniques to enable real-time prediction of risky driving events and facilitate timely risk mitigation.
         
         Please reach out to collaborate 😃
     design:
