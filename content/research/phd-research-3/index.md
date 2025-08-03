@@ -63,7 +63,7 @@ slides: ""
 Contact me
 
 <p align="center">
-  <img src="Figure 11.png" alt="视频示意图" width="60%">
+  <img src="Figure 11.png" style="width:80%; max-width:1000px;">
 </p>
 
 
