@@ -48,18 +48,18 @@ slides: ""
 ---
 
 ## Research Topic
-Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups
+📚 Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups
 
 ## Research Progress
-Completed
+✅ Completed
 
 ## Keywords
-- Safe driving attitudes
-- Post-trip intervention engagement
-- Real-time intervention adherence
-- Individual driving risk
-- Propensity score matching
-- Naturalistic driving data
+📌 Safe driving attitudes
+📌 Post-trip intervention engagement
+📌 Real-time intervention adherence
+📌 Individual driving risk
+📌 Propensity score matching
+📌 Naturalistic driving data
 
 ## Key Results
 **Relationship chains**
