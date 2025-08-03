@@ -63,7 +63,7 @@ slides: ""
 Contact me
 
 <p align="center">
-  <img src="Figure 11.png" style="width:80%; max-width:1000px;">
+  <img src="figure 1.png" style="width:80%; max-width:1000px;">
 </p>
 
 
