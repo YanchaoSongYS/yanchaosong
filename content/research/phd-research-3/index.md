@@ -64,14 +64,35 @@ Completed
 ## Key Results
 
 **Relationship chains**
-<div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
+<div style="text-align: center; margin-top: 0px; margin-bottom: 40px; position: relative; display: inline-block;">
+
   <img
     src="figure 1.png"
-    alt="教学资源图片"
-    style="width:80%; max-width:1000px; pointer-events: none; user-select: none;"
+    style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;"
     oncontextmenu="return false;"
+    draggable="false"
   >
+
+  <!-- 叠加水印层 -->
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 40px;
+    font-weight: bold;
+    user-select: none;
+    mix-blend-mode: screen;
+    ">
+    Copyright © Yanchao Song
+  </div>
+
 </div>
+
+
+
 
 
 
