@@ -63,22 +63,22 @@ Completed
 
 ## Key Results
 **Relationship chains**
-<p align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img src="figure 1.png" style="width:100%; max-width:1000px;">
 </p>
 
 **Spearman's rank correlations among driver indicators**
-<p align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img src="figure 2.png" style="width:100%; max-width:1000px;">
 </p>
 
 **Half violin plots of driver indicators stratified by SDA-PS and PTI-ED**
-<p align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img src="figure 3.png" style="width:100%; max-width:1000px;">
 </p>
 
 **Correlations among driver indicators for entire matched samples and different groups**
-<p align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img src="figure 4.png" style="width:100%; max-width:1000px;">
 </p>
 
