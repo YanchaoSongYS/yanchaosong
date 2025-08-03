@@ -4,7 +4,7 @@ authors:
 - admin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-07T09:00:00Z"
+publishDate: "2025-06-18T09:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
