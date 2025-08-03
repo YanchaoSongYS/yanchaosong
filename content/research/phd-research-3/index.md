@@ -22,6 +22,11 @@ tags:
 
 featured: true
 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
 # links:
 # - name: ""
 #   url: ""
@@ -63,7 +68,7 @@ slides: ""
 Contact me
 
 <p align="center">
-  <img src="figure 1.png" style="width:100%; max-width:2000px;">
+  <img src="figure 1.png" style="width:100%; max-width:1000px;">
 </p>
 
 
