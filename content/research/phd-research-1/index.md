@@ -26,6 +26,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://doi.org/10.1016/j.aap.2025.107993
+url_email: 'mailto:yanchao.song@uhasselt.be'
 url_code: ''
 url_dataset: ''
 url_poster: ''
