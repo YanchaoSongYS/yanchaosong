@@ -77,4 +77,4 @@ Completed
 
 
 ## Contact Me
-✉️(mailto:yanchao.song@uhasselt.be) If you are interested in this research and would like to talk more about it, just let me know!
+✉️ If you are interested in this research and would like to talk more about it, just let me know!
