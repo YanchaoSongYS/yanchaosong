@@ -11,7 +11,7 @@ publishDate: "2025-07-07T12:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["Completed"]
 
-abstract: How driver demographic and psychological traits influence intervention usage and individual driving risk: Evidence from a PLS-SEM analysis.
+abstract: How driver demographic and psychological traits influence intervention usage and individual driving risk - Evidence from a PLS-SEM analysis.
 
 # Summary. An optional shortened abstract.
 summary: Real-time interventions; Post-trip interventions; Gamification; Individual driving risk; Cross-national analysis; Naturalistic driving data
