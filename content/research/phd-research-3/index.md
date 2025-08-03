@@ -66,7 +66,7 @@ Completed
 **Relationship chains**
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
   <img
-    src="igure 1.png"
+    src="figure 1.png"
     alt="教学资源图片"
     style="width:80%; max-width:1000px; pointer-events: none; user-select: none;"
     oncontextmenu="return false;"
