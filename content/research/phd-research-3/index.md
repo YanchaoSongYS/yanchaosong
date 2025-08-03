@@ -54,12 +54,12 @@ slides: ""
 ✅ Completed
 
 ## Keywords
-📌 Safe driving attitudes
-📌 Post-trip intervention engagement
-📌 Real-time intervention adherence
-📌 Individual driving risk
-📌 Propensity score matching
-📌 Naturalistic driving data
+📌 Safe driving attitudes<br>
+📌 Post-trip intervention engagement<br>
+📌 Real-time intervention adherence<br>
+📌 Individual driving risk<br>
+📌 Propensity score matching<br>
+📌 Naturalistic driving data<br>
 
 ## Key Results
 **Relationship chains**
