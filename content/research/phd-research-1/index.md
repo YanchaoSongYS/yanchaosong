@@ -72,27 +72,27 @@ slides: ""
 ## Key Results
 🎨 **Scatter density plots and event parameter distributions**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_1.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_1.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **DSI curves for kinematic driving scenarios**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_2.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_2.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **DSIs for traffic offense scenarios**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_3.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_3.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Correlation heat map & Weighting coefficients**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_4.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_4.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Scatter plot**
 <p align="left" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_5.png" style="width:50%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_5.png" style="width:47%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 ## Contact Me

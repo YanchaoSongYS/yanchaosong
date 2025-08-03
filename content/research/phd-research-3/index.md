@@ -64,27 +64,27 @@ slides: ""
 ## Key Results
 🎨 **Relationship chains**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_1.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_1.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Spearman's rank correlations among driver indicators**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_2.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_2.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Propensity score distributions for the original and matched samples**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_3.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_3.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Half violin plots of driver indicators stratified by SDA-PS and PTI-ED**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_4.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_4.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 🎨 **Correlations among driver indicators for entire matched samples and different groups**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
-  <img src="figure_5.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
+  <img src="figure_5.png" style="width:95%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
 </p>
 
 ## Contact Me
