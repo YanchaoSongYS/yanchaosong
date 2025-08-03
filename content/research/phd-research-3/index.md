@@ -62,21 +62,6 @@ slides: ""
 📌 Naturalistic driving data<br>
 
 ## Key Results
-
-<div style="text-align: center; margin-top: 0px; margin-bottom: 20px;">
-  <p style="font-weight: bold; font-size: 18px; margin-bottom: 2px;">
-    🎨 Relationship chains
-  </p>
-  <img
-    src="figure_1.png"
-    style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;"
-    oncontextmenu="return false;"
-    draggable="false"
-  >
-</div>
-
-
-
 🎨 **Relationship chains**
 <p align="center" style="margin-top: 0px; margin-bottom: 20px;">
   <img src="figure_1.png" style="width:100%; max-width:1000px; user-select: none; -webkit-user-drag: none;" oncontextmenu="return false;" draggable="false">
