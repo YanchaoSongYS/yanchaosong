@@ -15,6 +15,11 @@ tags:
 
 featured: true
 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: true
+
 # links:
 # - name: ""
 #   url: ""
@@ -49,7 +54,7 @@ slides: ""
 ✅ Completed
 
 ## Publication
-🧾 _Accident Analysis & Prevention_(https://doi.org/10.1016/j.aap.2025.107993)
+🧾 [Accident Analysis & Prevention](https://doi.org/10.1016/j.aap.2025.107993)
 
 ## Highlights
 ✨ Drivers' risk tendencies can be accurately identified within risky driving scenarios.<br>
