@@ -64,13 +64,26 @@ slides: ""
 - Naturalistic driving data
 {{% /callout %}}
 
-## Contact Me
-Contact me
-
+## Key Results
+**Relationship chains**
 <p align="center">
-  <img src="figure 1.png" style="width:90%; max-width:1000px;">
+  <img src="figure 1.png" style="width:100%; max-width:1000px;">
 </p>
 
+**Spearman's rank correlations among driver indicators**
+<p align="center">
+  <img src="figure 2.png" style="width:100%; max-width:1000px;">
+</p>
+
+**Half violin plots of driver indicators stratified by SDA-PS and PTI-ED**
+<p align="center">
+  <img src="figure 3.png" style="width:100%; max-width:1000px;">
+</p>
+
+**Correlations among driver indicators for entire matched samples and different groups**
+<p align="center">
+  <img src="figure 4.png" style="width:100%; max-width:1000px;">
+</p>
 
 
 
