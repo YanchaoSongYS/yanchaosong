@@ -47,22 +47,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-**Keywords**
-- Real-time interventions
-- Post-trip interventions
-- Gamification
-- Individual driving risk
-- Cross-national analysis
-- Naturalistic driving data
-{{% /callout %}}
-
-{{% callout note %}}
-**Highlights**
-- The i-DREAMS interventions significantly reduce kinematic driving risk and traffic offense risk.
-- The effectiveness of real-time and post-trip interventions exhibits cross-national differences.
-- A strong negative association exists between adherence to real-time interventions and individual driving risk.
-- A strong positive association exists between engagement with post-trip interventions and adherence scores in kinematic driving.
-- Gamification elements promote adherence to real-time interventions, significantly reducing kinematic driving risk.
-{{% /callout %}}
