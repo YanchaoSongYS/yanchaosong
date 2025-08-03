@@ -6,13 +6,6 @@ authors:
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-02T00:00:00Z"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["Completed Research"]
-
-abstract: Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups.
-
 # Summary. An optional shortened abstract.
 summary: Safe driving attitudes; Post-trip intervention engagement; Real-time intervention adherence; Individual driving risk; Propensity score matching; Naturalistic driving data
 
@@ -54,15 +47,19 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-**Keywords**
+## Research Topic
+Exploring relationships among safe driving attitudes, post-trip intervention engagement, real-time intervention adherence, and individual driving risk across different driver groups
+
+## Research Progress
+Completed
+
+## Keywords
 - Safe driving attitudes
 - Post-trip intervention engagement
 - Real-time intervention adherence
 - Individual driving risk
 - Propensity score matching
 - Naturalistic driving data
-{{% /callout %}}
 
 ## Key Results
 **Relationship chains**
@@ -85,9 +82,5 @@ slides: ""
   <img src="figure 4.png" style="width:100%; max-width:1000px;">
 </p>
 
-
-
-
-
-
-
+## Contact Me
+If you are interested in this research and would like to talk more about it, just let me know!
